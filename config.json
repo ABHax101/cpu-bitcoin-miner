@@ -1,8 +1,8 @@
 {
-    "user" : "user_name",
-    "password" : "Pa$$w0rd",
-    "host" : "127.0.0.1:8332",
-    "account" : "MyBTCAccount",
+    "user" : "bexem65000.worker",
+    "password" : "anything123",
+    "host" : "stratum+tcp://stratum.braiins.com:3333",
+    "account" : "1Ca1EFQ7CSeAkyp8CcgwrpTXAn11sBFoJF",
     "log": {
         "Activated": true,
         "Level": "info",
